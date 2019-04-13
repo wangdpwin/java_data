@@ -1,2 +1,5 @@
-# java_data
-test to describ java data model
+# data structures and algorithms in java
+test to describ java structures
+
+## Array
+
